@@ -28,9 +28,9 @@ sections:
     content:
       title: Teaching
       text: |2-
-        ## Korea University
+        #### Korea University
         * SMRT324 Computer Network Security, Teaching Assistant (Fall 2023)
-        ## Jeju National University
+        #### Jeju National University
         * SWE00016 Information Communication, Undergraduate Teaching Assistant (Spring 2022)
         * SWE00044 Software Basic English, Undergraduate Teaching Assistant (Fall 2022)
         * SWE00031 Software Innovation Special Lecture, Undergraduate Teaching Assistant (Fall 2022)

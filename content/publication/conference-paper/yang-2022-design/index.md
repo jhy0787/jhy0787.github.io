@@ -56,7 +56,7 @@ url_video: ''
 image:
   caption: 'Image credit: [**Jihoon Yang**](https://www.jhyang.kr)'
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.

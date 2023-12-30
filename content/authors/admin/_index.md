@@ -42,7 +42,7 @@ education:
     - course: High School Diploma in Information Communication
       institution: Sunrin Internet High School
       year: 2018
-<!--
+
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -82,7 +82,6 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
--->
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

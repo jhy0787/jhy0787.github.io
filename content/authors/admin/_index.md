@@ -3,7 +3,7 @@
 title: Jihoon Yang
 
 # Name pronunciation (optional)
-name_pronunciation: Jihoon Yang
+# name_pronunciation:
 
 # Full name (for SEO)
 first_name: Jihoon
@@ -21,8 +21,8 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Jeju National Unoversity
+    url: https://jejunu.ac.kr/eng/index.htm
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -38,14 +38,11 @@ education:
   courses:
     - course: B.S. Student in Computer Education
       institution: Jeju National University
-      year: 2012
+      year: 2024
     - course: High School Diploma in Information Communication
       institution: Sunrin Internet High School
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
+      year: 2018
+<!--
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -85,6 +82,7 @@ skills:
         percent: 80
         icon: camera-retro
         icon_pack: fas
+-->
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,12 +92,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.kr/citations?user=ljFnyb4AAAAJ&hl=en
@@ -120,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Jihoon Yang (Student Member, IEEE) is a B.S. student in the Department of Computer Education at Jeju National University. His research interests include networking, cloud computing, and machine learning.
+Jihoon Yang (Student Member, IEEE) is a B.S. student in the Department of Computer Education at Jeju National University and an Undergraduate Research Intern at Korea University. His research interests include networking, cloud computing, and machine learning.
 {style="text-align: justify;"}

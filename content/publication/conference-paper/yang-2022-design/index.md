@@ -3,7 +3,7 @@ title: Design of KoBERT-based Voice Phishing Prevention Scheme
 
 # Authors
 authors:
-- Jihoon Yang
+- admin
 - Chunghun Lee
 - Seong Baeg Kim
 

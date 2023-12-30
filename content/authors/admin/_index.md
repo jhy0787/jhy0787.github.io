@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Jihoon Yang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Jihoon Yang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jihoon
+last_name: Yang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧑🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -29,18 +29,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Networking
+  - Cloud Computing
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: B.S. Student in Computer Education
+      institution: Jeju National University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: High School Diploma in Information Communication
+      institution: Sunrin Internet High School
       year: 2009
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
@@ -102,13 +102,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.co.kr/citations?user=ljFnyb4AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/jhy0787/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/jhyangce/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Jihoon Yang (Student Member, IEEE) is a B.S. student in the Department of Computer Education at Jeju National University. His research interests include networking, cloud computing, and machine learning.
 {style="text-align: justify;"}

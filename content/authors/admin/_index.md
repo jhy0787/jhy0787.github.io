@@ -17,15 +17,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: B.S. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Jeju National Unoversity
+  - name: Jeju National University
     url: https://jejunu.ac.kr/eng/index.htm
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include networking, cloud computing, and machine learning.
 
 # Interests to show in About widget
 interests:
@@ -38,10 +38,10 @@ education:
   courses:
     - course: B.S. Student in Computer Education
       institution: Jeju National University
-      year: 2024
+      year: 2018-2024
     - course: High School Diploma in Information Communication
       institution: Sunrin Internet High School
-      year: 2018
+      year: 2015-2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

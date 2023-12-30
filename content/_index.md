@@ -36,12 +36,25 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
+
   - block: about.biography
     id: about
     content:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+
+  - block: collection
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: Compact
+      
   - block: experience
     content:
       title: Experience
@@ -77,6 +90,7 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
+
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -119,7 +133,7 @@ sections:
           url: ''
     design:
       columns: '2'
-      
+
   - block: collection
     id: posts
     content:
@@ -147,6 +161,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
   - block: portfolio
     id: projects
     content:
@@ -175,16 +190,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
 
-  - block: collection
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: Compact
+
 
   - block: collection
     id: talks
@@ -196,11 +202,13 @@ sections:
     design:
       columns: '2'
       view: compact
+
   - block: tag_cloud
     content:
       title: Popular Topics
     design:
       columns: '2'
+
   - block: contact
     id: contact
     content:

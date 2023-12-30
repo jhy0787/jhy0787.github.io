@@ -23,7 +23,8 @@ sections:
       columns: '2'
       view: Compact
 
-  - block: Teaching
+  - block: markdown
+    id: teaching
     content:
       title: Teaching
       subtitle: Korea University

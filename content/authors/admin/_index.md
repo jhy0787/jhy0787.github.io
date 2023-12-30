@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jihoon Yang
+title: Jihoon "Jaden" Yang
 
 # Name pronunciation (optional)
 # name_pronunciation:
@@ -111,5 +111,7 @@ social:
 highlight_name: true
 ---
 
-Jihoon Yang (Student Member, IEEE) is a B.S. student in the Department of Computer Education at Jeju National University and an Undergraduate Research Intern at Korea University. His research interests include networking, cloud computing, and machine learning.
+I am a B.S. student at CS Lab in the Department of Computer Education at Jeju National University and an undergraduate research intern in NetLab at Korea University.
+
+My research interests include networking, cloud computing, and machine learning.
 {style="text-align: justify;"}

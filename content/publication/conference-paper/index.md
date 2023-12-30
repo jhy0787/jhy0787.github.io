@@ -17,8 +17,16 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  -
+  - Corresponding author
+
 
 date: '2023-07-18T00:00:00Z'
 doi: '10.1109/SAS58821.2023.10254001'

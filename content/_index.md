@@ -201,7 +201,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: List
+      view: Card
   - block: collection
     id: talks
     content:

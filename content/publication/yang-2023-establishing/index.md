@@ -48,7 +48,7 @@ summary:
 tags: [Wireless communication, Wireless sensor networks, Web services, Tsunami, Communication networks, Synthetic aperture sonar, Wireless fidelity]
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

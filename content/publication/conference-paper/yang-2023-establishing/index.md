@@ -36,7 +36,7 @@ publication_types:
 - paper-conference
 
 # Publication name and optional abbreviated publication name.
-publication: 'in Proceedings of *2023 IEEE Sensors Applications Symposium (SAS)*'
+publication: 'in *Proceedings of 2023 IEEE Sensors Applications Symposium (SAS)*'
 publication_short: In *SAS*
 
 abstract: Every year, natural disasters such as earthquakes, hurricanes, volcanic eruptions, and tsunamis occur around the world. Natural disasters not only cause economic damage and casualties, but also destroy entire infrastructures. When communication infrastructure is damaged, information exchange between rescuers and victims or among rescuers themselves is not smooth, which inevitably reduces the effectiveness of relief activities. The purpose of this study is to establish a communication network using unmanned aerial vehicles (UAVs) known as drones, and to provide smooth communication services to areas where communication facilities have been destroyed through web application development. A low-altitude aerial base station (ABS) is built using a drone and provides a wireless intranet communication network. The intranet-only web application is developed to provide a service that allows people to send and receive messages and location information. In future research, separating the communication network between rescuers and non-rescuers and using multiple ABSs to build the network could serve more people in a wider disaster area.
@@ -55,7 +55,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/document/10254001'
 url_code: 'https://github.com/Yaminyam/new-wave'
 url_dataset: 'https://github.com/Yaminyam/new-wave'
 url_poster: ''

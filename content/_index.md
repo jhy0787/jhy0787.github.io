@@ -30,7 +30,7 @@ sections:
       text: |2-
         **Korea University** | Teaching Assistant
         * SMRT324 Computer Network Security (Fall 2023)
-      |2-
+      
         **Jeju National University** | Undergraduate Teaching Assistant
         * SWE00016 Information Communication (Spring 2022)
         * SWE00044 Software Basic English (Fall 2022)

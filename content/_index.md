@@ -27,8 +27,8 @@ sections:
     content:
       title: Teaching
       subtitle: Korea University
-      text:
-        - SMRT324 Computer Network Security, Teaching Assistant (Fall 2023)
+      text: |2-
+        * SMRT324 Computer Network Security, Teaching Assistant (Fall 2023)
     design:
       columns: '2'
       view: Compact

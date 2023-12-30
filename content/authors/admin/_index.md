@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jihoon "Jaden" Yang
+title: Jihoon Yang
 
 # Name pronunciation (optional)
 # name_pronunciation:

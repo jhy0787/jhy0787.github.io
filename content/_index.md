@@ -23,12 +23,18 @@ sections:
       columns: '2'
       view: Compact
 
-  - block: collection
+  - block: Teaching
     content:
       title: Teaching
       subtitle: Korea University
       text: |2-
         * SMRT324 Computer Network Security, Teaching Assistant (Fall 2023)
+      subtitle: Jeju National University
+      text: |2-
+        * SWE00016 Information Communication, Undergraduate Teaching Assistant (Spring 2022)
+        * SWE00044 Software Basic English, Undergraduate Teaching Assistant (Fall 2022)
+        * SWE00031 Software Innovation Special Lecture, Undergraduate Teaching Assistant (Fall 2022)
+        * ICE00019 Multimedia, Undergraduate Teaching Assistant (Spring 2022)
     design:
       columns: '2'
       view: Compact
